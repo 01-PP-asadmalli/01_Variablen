@@ -63,8 +63,23 @@
 
 /***** 04 Beispiel - Berechnung *******/
 
-// // Deklaration
+// Deklaration
 const birthYearJohn = 2000;
-const birthYearMark = 1999; 
+const birthYearMark = 1990; 
 let ageJohn, ageMark;
+
+ageJohn = 2023 - birthYearJohn;
+ageMark = 2023 - birthYearMark;
+
+
+// Ausgabe
+console.log("ageJohn: " + ageJohn);
+console.log("ageMark: " + ageMark);
+
+
+
+
+
+
+
 

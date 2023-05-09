@@ -27,11 +27,22 @@
 
 /***** 03 Deklaration + Wertzuweisung II *******/
 
-let firstName, familyName; 
+// let firstName, familyName; 
 
-firstName = prompt("Bitte Vorname eingeben:");
-familyName = prompt ("Bitte Nachname eingeben:");
+// firstName = prompt("Bitte Vorname eingeben:");
+// familyName = prompt ("Bitte Nachname eingeben:");
 
-console.log(firstName + " " + familyName);
+// console.log(firstName + " " + familyName);
+// console.log(typeof firstName);
+
+/* JS ist eine untypisierte Sorache!  Untyped*/
 
 
+// let test;
+// test = "Max";
+// test = 2; 
+// test = true; // boolean
+
+
+// console.log("Datentyp: " + typeof test);
+// console.log("Inhalt: " + test);

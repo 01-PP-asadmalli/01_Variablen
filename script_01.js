@@ -46,3 +46,25 @@
 
 // console.log("Datentyp: " + typeof test);
 // console.log("Inhalt: " + test);
+
+
+
+/***** 03a Konstanten *******/
+
+// let test = "Max"; // Deklaration + Wertzuweisung
+// test = "Maxine"; 
+
+// const test = "Max"; // Variable mit KONSTANTEN INHALT
+// test = "Maxine";  // KEINE neue Zuweisung zur LZ möglich! --> Fehler
+
+
+// console.log("Inhalt: " + test);
+
+
+/***** 04 Beispiel - Berechnung *******/
+
+// // Deklaration
+const birthYearJohn = 2000;
+const birthYearMark = 1999; 
+let ageJohn, ageMark;
+
